@@ -82,7 +82,7 @@ Focused on:
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Acronikhil/Acronikhil/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Acronikhil/Acronikhil/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
