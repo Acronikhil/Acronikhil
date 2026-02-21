@@ -67,7 +67,7 @@ Focused on:
 ---
 
 ## 📊 Engineering Activity
-
+<p align="center"> <img width="60%" src="https://streak-stats.demolab.com?user=Acronikhil&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /> </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acronikhil&theme=github-dark&hide_border=true" />
 </p>
