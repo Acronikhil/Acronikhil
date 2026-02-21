@@ -1,7 +1,8 @@
 <!-- Elegant Gradient Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Nikhil%20Dubey&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Nikhil%20Dubey&fontSize=55&fontColor=1F6FEB&fontAlignY=50"/>
 </p>
+
 
 <p align="center">
   <b>Java Full Stack Developer</b>  
