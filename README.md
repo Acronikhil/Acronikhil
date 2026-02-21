@@ -1,62 +1,24 @@
-<h1 align="center">Your Name</h1>
-<h3 align="center">Java Full Stack Developer | Building Scalable & Elegant Systems</h3>
+<h1 align="center">Nikhil Dubey</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Acronikhil&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Enterprise+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Acronikhil&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
 </p>
 
 ---
 
-## 💼 About Me
+## 🚀 About Me
 
-- 💻 Java Full Stack Developer  
-- ⚙️ Backend Specialist: Spring Boot, REST APIs, Microservices  
-- 🎨 Frontend: React, HTML5, CSS3, JavaScript  
-- 🗄️ Databases: MySQL, PostgreSQL  
-- 🚀 Passionate about clean architecture & scalable systems  
+```java
+public class NikhilDubey {
 
----
+    String role = "Java Full Stack Developer";
+    String backend = "Spring Boot | REST APIs | Microservices";
+    String frontend = "React | JavaScript | HTML5 | CSS3";
+    String database = "MySQL | PostgreSQL";
+    String focus = "Clean Architecture & Scalable Systems";
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,postgres,git,github,docker" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Acronikhil&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acronikhil&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Acronikhil&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🏗️ Featured Projects
-
-- 🔹 **Enterprise REST API** – Secure & scalable backend using Spring Boot  
-- 🔹 **Full Stack Web App** – React + Spring Boot integration  
-- 🔹 **Authentication System** – JWT-based login system  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://dubeynikhil.in/"> My Portfolio </a> 
-  <a href="https://www.linkedin.com/in/nikhil-dubey-207055190/">LinkedIn</a>
-  <a href="https://www.syncpickleball.com/" > My Recent Work</a> 
-  <a href="mailto:20.nikhildubey@gmail.com">Email</a>
-  <a href="tel:+91 8962132378" >Phone</a>
-</p>
-
+}
