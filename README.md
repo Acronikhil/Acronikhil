@@ -69,11 +69,7 @@ Focused on:
 ## 📊 Engineering Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Acronikhil&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acronikhil&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acronikhil&theme=github-dark&hide_border=true" />
 </p>
 
 ---
