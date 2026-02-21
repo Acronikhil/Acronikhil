@@ -69,13 +69,17 @@ Focused on:
 ## 📊 Engineering Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Acronikhil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acronikhil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Acronikhil&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Acronikhil&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acronikhil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Acronikhil&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
